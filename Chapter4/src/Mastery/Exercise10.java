@@ -47,3 +47,15 @@ public class Exercise10
 	}
 
 }
+
+//Screen dump 
+//are you looking for the volume of a rectangle sphere or cube?: sphere
+//please enter the diameter: 24
+//the volume of the rectangle is: 7238
+
+//Screen dump 
+//are you looking for the volume of a rectangle sphere or cube?: rectangle
+//please enter the length: 5
+//please enter the width: 2
+//please enter the height: 6
+//the volume of the rectangle is: 60

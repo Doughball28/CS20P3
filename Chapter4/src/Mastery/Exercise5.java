@@ -36,3 +36,9 @@ public class Exercise5 {
 	}
 
 }
+//Screen dump
+//enter your percent grade: 6
+//Your grade is: F
+//Screen dump
+//enter your percent grade: 87
+//Your grade is: B
