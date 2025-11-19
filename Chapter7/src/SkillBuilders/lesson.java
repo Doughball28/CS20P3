@@ -9,9 +9,9 @@ public class lesson
 	
 	public lesson()//constructor method
 	{
-		firstName = "";
-		lastName = "";
-		address = "";
+		firstName = "Unknown";
+		lastName = "Unknown";
+		address = "Unknown";
 		stuID = 000000;
 	}
 	
