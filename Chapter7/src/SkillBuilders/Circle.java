@@ -51,7 +51,7 @@ public class Circle
 		return "Circle[radius=" + radius + ", area=" + area + "]";
 	}
 
-	// equals override (no 'this')
+	// equals override
 	@Override
 	public boolean equals(Object obj)
 	{
